@@ -1,0 +1,1684 @@
+{
+ "basis": "declaration lines outside comments, basis v2 (count.py)",
+ "runs": {
+  "run81": {
+   "commit": "ba4cbf9",
+   "registered_window": true,
+   "repos_compared": 36,
+   "recounted": [
+    "software-emergence-is-decidable"
+   ],
+   "carried": 35,
+   "dropped": [],
+   "disagreements": [],
+   "incremental_table": {
+    "deterministic-llms": {
+     "pin": "6151727a7ec67d15fdbb0fbfa48c2f305057aa69",
+     "theorems": 53,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol": {
+     "pin": "561cf39533443691c2c6817daff7b04276dee860",
+     "theorems": 10,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-eyes": {
+     "pin": "1dc24f4fcd8240ab6fbc9056dba7726e5c62bd98",
+     "theorems": 61,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-lib": {
+     "pin": "578b8b3a7e212082bf0d1f8a5a582cca63af3a19",
+     "theorems": 120,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-semi": {
+     "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+     "theorems": 1851,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-theses": {
+     "pin": "d207be6e23b2f9d72b5b16e1d85b7ea3003ec56c",
+     "theorems": 36,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "premise-retraction-playground": {
+     "pin": "47f469a4e868ce9f7ad5f17e329739ef22b8066c",
+     "theorems": 0,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "semi-persistent": {
+     "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+     "theorems": 101,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-benchmarking-is-redundant-and-suboptimal": {
+     "pin": "4314a181bc3d1fb35972031273c796aca10d15f5",
+     "theorems": 34,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-certification-is-monotone": {
+     "pin": "4539760e0589fdcb3327d7b6ded90bb71af3a808",
+     "theorems": 19,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-compilers-lose-info": {
+     "pin": "f531e31a4e647461a28228e4b9d64f40d1782908",
+     "theorems": 37,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-doesnt-have-to-regress": {
+     "pin": "c36829da6f687d52b7d7998edc5ef55f4c244077",
+     "theorems": 131,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-doesnt-need-review": {
+     "pin": "40b1e885658951fa3fd17f42f5017fed5765f22b",
+     "theorems": 82,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-emergence-is-decidable": {
+     "pin": "8eb2906bbf4266129056fcad5b3318dfb2fc31dc",
+     "theorems": 68,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-frontier-is-solvable": {
+     "pin": "6a41c7be3c1b01492f96b75cbf0a28b11ab9faff",
+     "theorems": 18,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-fuzzing-is-suboptimal": {
+     "pin": "18d9569b581a3d2900b0613b33fc00e4b464ffa5",
+     "theorems": 21,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-has-a-highest-minimal-axis": {
+     "pin": "63d9d3fdce1f81c81cd5cda2bd9850b0c1494646",
+     "theorems": 58,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-a-closed-loop": {
+     "pin": "d558669b7cf556bb1d9653e6432c895c3ceb6cfd",
+     "theorems": 11,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-a-parametric-language-model": {
+     "pin": "ca4ca2b39181bb93a717b3edbb58ab476761fa5c",
+     "theorems": 40,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-bidirectional": {
+     "pin": "b14fc92b77d27411775be1a6a64428ff8fad247a",
+     "theorems": 73,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-composable": {
+     "pin": "a3058ba676f82c1c21faf588b72acdc77fb73dc7",
+     "theorems": 56,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-certifiable": {
+     "pin": "c9ffd49a906038d29d3e0d726093c410b3db798e",
+     "theorems": 8,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-safe": {
+     "pin": "8ad1dd2624c41023919ab7c41a285de15b3ce673",
+     "theorems": 6,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-safe-content-branch": {
+     "pin": "5c1006a6ae6ee41a4bc19247db3a95589f5a3e9e",
+     "theorems": null,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-more-traceable-than-you-think": {
+     "pin": "4420fb1e5422d965668c66f93d9d352cc3cec982",
+     "theorems": 5,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-quantifiable": {
+     "pin": "f370992611d8c722e4897e67dbb8eaecf3d872ed",
+     "theorems": 189,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-reversible": {
+     "pin": "fcb9595310d8a0782cb7fca1b2203d80b28c8d8c",
+     "theorems": 94,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-solvable": {
+     "pin": "5bbceee7e4270d838115dbfc8fb218ebee641638",
+     "theorems": 51,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-losses-are-compositional": {
+     "pin": "12ee66e9c9cdaeec4bea5eb8fb1fd61e6df780fb",
+     "theorems": 18,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-optimality": {
+     "pin": "b52c3170a6e108345bd5ada44ca7355dae55b395",
+     "theorems": 450,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-persistence-is-minimal": {
+     "pin": "eb01cf2e33a20bfbda5a03aba7a48c70fbd10741",
+     "theorems": 53,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-profiling-is-synthesizable": {
+     "pin": "a53c4bf5aa83e8677ecb66571d61ed4c11e2d88d",
+     "theorems": 20,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-redundancy-is-equivalence": {
+     "pin": "37514fb760ae8457bd4b75514b2dbcc4fbdccfef",
+     "theorems": 217,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-redundant-compute-expands": {
+     "pin": "1ea286488cd4fecb7edb7f5debe407db04456b88",
+     "theorems": 37,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-tensors-are-editable": {
+     "pin": "9d7afd54bf8e7c8dbd335b6530d4cdc6b6d14d18",
+     "theorems": 14,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-testing-is-redundant": {
+     "pin": "66f65b6f44ac0249d11451cac089283aa1756240",
+     "theorems": 26,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    }
+   },
+   "from_scratch_table": {
+    "deterministic-llms": {
+     "pin": "6151727a7ec67d15fdbb0fbfa48c2f305057aa69",
+     "theorems": 53,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol": {
+     "pin": "561cf39533443691c2c6817daff7b04276dee860",
+     "theorems": 10,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-eyes": {
+     "pin": "1dc24f4fcd8240ab6fbc9056dba7726e5c62bd98",
+     "theorems": 61,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-lib": {
+     "pin": "578b8b3a7e212082bf0d1f8a5a582cca63af3a19",
+     "theorems": 120,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-semi": {
+     "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+     "theorems": 1851,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-theses": {
+     "pin": "d207be6e23b2f9d72b5b16e1d85b7ea3003ec56c",
+     "theorems": 36,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "premise-retraction-playground": {
+     "pin": "47f469a4e868ce9f7ad5f17e329739ef22b8066c",
+     "theorems": 0,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "semi-persistent": {
+     "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+     "theorems": 101,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-benchmarking-is-redundant-and-suboptimal": {
+     "pin": "4314a181bc3d1fb35972031273c796aca10d15f5",
+     "theorems": 34,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-certification-is-monotone": {
+     "pin": "4539760e0589fdcb3327d7b6ded90bb71af3a808",
+     "theorems": 19,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-compilers-lose-info": {
+     "pin": "f531e31a4e647461a28228e4b9d64f40d1782908",
+     "theorems": 37,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-doesnt-have-to-regress": {
+     "pin": "c36829da6f687d52b7d7998edc5ef55f4c244077",
+     "theorems": 131,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-doesnt-need-review": {
+     "pin": "40b1e885658951fa3fd17f42f5017fed5765f22b",
+     "theorems": 82,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-emergence-is-decidable": {
+     "pin": "8eb2906bbf4266129056fcad5b3318dfb2fc31dc",
+     "theorems": 68,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-frontier-is-solvable": {
+     "pin": "6a41c7be3c1b01492f96b75cbf0a28b11ab9faff",
+     "theorems": 18,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-fuzzing-is-suboptimal": {
+     "pin": "18d9569b581a3d2900b0613b33fc00e4b464ffa5",
+     "theorems": 21,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-has-a-highest-minimal-axis": {
+     "pin": "63d9d3fdce1f81c81cd5cda2bd9850b0c1494646",
+     "theorems": 58,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-a-closed-loop": {
+     "pin": "d558669b7cf556bb1d9653e6432c895c3ceb6cfd",
+     "theorems": 11,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-a-parametric-language-model": {
+     "pin": "ca4ca2b39181bb93a717b3edbb58ab476761fa5c",
+     "theorems": 40,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-bidirectional": {
+     "pin": "b14fc92b77d27411775be1a6a64428ff8fad247a",
+     "theorems": 73,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-composable": {
+     "pin": "a3058ba676f82c1c21faf588b72acdc77fb73dc7",
+     "theorems": 56,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-certifiable": {
+     "pin": "c9ffd49a906038d29d3e0d726093c410b3db798e",
+     "theorems": 8,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-safe": {
+     "pin": "8ad1dd2624c41023919ab7c41a285de15b3ce673",
+     "theorems": 6,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-safe-content-branch": {
+     "pin": "5c1006a6ae6ee41a4bc19247db3a95589f5a3e9e",
+     "theorems": null,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-more-traceable-than-you-think": {
+     "pin": "4420fb1e5422d965668c66f93d9d352cc3cec982",
+     "theorems": 5,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-quantifiable": {
+     "pin": "f370992611d8c722e4897e67dbb8eaecf3d872ed",
+     "theorems": 189,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-reversible": {
+     "pin": "fcb9595310d8a0782cb7fca1b2203d80b28c8d8c",
+     "theorems": 94,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-solvable": {
+     "pin": "5bbceee7e4270d838115dbfc8fb218ebee641638",
+     "theorems": 51,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-losses-are-compositional": {
+     "pin": "12ee66e9c9cdaeec4bea5eb8fb1fd61e6df780fb",
+     "theorems": 18,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-optimality": {
+     "pin": "b52c3170a6e108345bd5ada44ca7355dae55b395",
+     "theorems": 450,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-persistence-is-minimal": {
+     "pin": "eb01cf2e33a20bfbda5a03aba7a48c70fbd10741",
+     "theorems": 53,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-profiling-is-synthesizable": {
+     "pin": "a53c4bf5aa83e8677ecb66571d61ed4c11e2d88d",
+     "theorems": 20,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-redundancy-is-equivalence": {
+     "pin": "37514fb760ae8457bd4b75514b2dbcc4fbdccfef",
+     "theorems": 217,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-redundant-compute-expands": {
+     "pin": "1ea286488cd4fecb7edb7f5debe407db04456b88",
+     "theorems": 37,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-tensors-are-editable": {
+     "pin": "9d7afd54bf8e7c8dbd335b6530d4cdc6b6d14d18",
+     "theorems": 14,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-testing-is-redundant": {
+     "pin": "66f65b6f44ac0249d11451cac089283aa1756240",
+     "theorems": 26,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    }
+   }
+  },
+  "run82": {
+   "commit": "4463db95",
+   "registered_window": true,
+   "repos_compared": 36,
+   "recounted": [],
+   "carried": 36,
+   "dropped": [],
+   "disagreements": [],
+   "incremental_table": {
+    "deterministic-llms": {
+     "pin": "6151727a7ec67d15fdbb0fbfa48c2f305057aa69",
+     "theorems": 53,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol": {
+     "pin": "561cf39533443691c2c6817daff7b04276dee860",
+     "theorems": 10,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-eyes": {
+     "pin": "1dc24f4fcd8240ab6fbc9056dba7726e5c62bd98",
+     "theorems": 61,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-lib": {
+     "pin": "578b8b3a7e212082bf0d1f8a5a582cca63af3a19",
+     "theorems": 120,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-semi": {
+     "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+     "theorems": 1851,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-theses": {
+     "pin": "d207be6e23b2f9d72b5b16e1d85b7ea3003ec56c",
+     "theorems": 36,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "premise-retraction-playground": {
+     "pin": "47f469a4e868ce9f7ad5f17e329739ef22b8066c",
+     "theorems": 0,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "semi-persistent": {
+     "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+     "theorems": 101,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-benchmarking-is-redundant-and-suboptimal": {
+     "pin": "4314a181bc3d1fb35972031273c796aca10d15f5",
+     "theorems": 34,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-certification-is-monotone": {
+     "pin": "4539760e0589fdcb3327d7b6ded90bb71af3a808",
+     "theorems": 19,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-compilers-lose-info": {
+     "pin": "f531e31a4e647461a28228e4b9d64f40d1782908",
+     "theorems": 37,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-doesnt-have-to-regress": {
+     "pin": "c36829da6f687d52b7d7998edc5ef55f4c244077",
+     "theorems": 131,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-doesnt-need-review": {
+     "pin": "40b1e885658951fa3fd17f42f5017fed5765f22b",
+     "theorems": 82,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-emergence-is-decidable": {
+     "pin": "8eb2906bbf4266129056fcad5b3318dfb2fc31dc",
+     "theorems": 68,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-frontier-is-solvable": {
+     "pin": "6a41c7be3c1b01492f96b75cbf0a28b11ab9faff",
+     "theorems": 18,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-fuzzing-is-suboptimal": {
+     "pin": "18d9569b581a3d2900b0613b33fc00e4b464ffa5",
+     "theorems": 21,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-has-a-highest-minimal-axis": {
+     "pin": "63d9d3fdce1f81c81cd5cda2bd9850b0c1494646",
+     "theorems": 58,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-a-closed-loop": {
+     "pin": "d558669b7cf556bb1d9653e6432c895c3ceb6cfd",
+     "theorems": 11,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-a-parametric-language-model": {
+     "pin": "ca4ca2b39181bb93a717b3edbb58ab476761fa5c",
+     "theorems": 40,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-bidirectional": {
+     "pin": "b14fc92b77d27411775be1a6a64428ff8fad247a",
+     "theorems": 73,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-composable": {
+     "pin": "a3058ba676f82c1c21faf588b72acdc77fb73dc7",
+     "theorems": 56,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-certifiable": {
+     "pin": "c9ffd49a906038d29d3e0d726093c410b3db798e",
+     "theorems": 8,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-safe": {
+     "pin": "8ad1dd2624c41023919ab7c41a285de15b3ce673",
+     "theorems": 6,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-safe-content-branch": {
+     "pin": "5c1006a6ae6ee41a4bc19247db3a95589f5a3e9e",
+     "theorems": null,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-more-traceable-than-you-think": {
+     "pin": "4420fb1e5422d965668c66f93d9d352cc3cec982",
+     "theorems": 5,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-quantifiable": {
+     "pin": "f370992611d8c722e4897e67dbb8eaecf3d872ed",
+     "theorems": 189,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-reversible": {
+     "pin": "fcb9595310d8a0782cb7fca1b2203d80b28c8d8c",
+     "theorems": 94,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-solvable": {
+     "pin": "5bbceee7e4270d838115dbfc8fb218ebee641638",
+     "theorems": 51,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-losses-are-compositional": {
+     "pin": "12ee66e9c9cdaeec4bea5eb8fb1fd61e6df780fb",
+     "theorems": 18,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-optimality": {
+     "pin": "b52c3170a6e108345bd5ada44ca7355dae55b395",
+     "theorems": 450,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-persistence-is-minimal": {
+     "pin": "eb01cf2e33a20bfbda5a03aba7a48c70fbd10741",
+     "theorems": 53,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-profiling-is-synthesizable": {
+     "pin": "a53c4bf5aa83e8677ecb66571d61ed4c11e2d88d",
+     "theorems": 20,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-redundancy-is-equivalence": {
+     "pin": "37514fb760ae8457bd4b75514b2dbcc4fbdccfef",
+     "theorems": 217,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-redundant-compute-expands": {
+     "pin": "1ea286488cd4fecb7edb7f5debe407db04456b88",
+     "theorems": 37,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-tensors-are-editable": {
+     "pin": "9d7afd54bf8e7c8dbd335b6530d4cdc6b6d14d18",
+     "theorems": 14,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-testing-is-redundant": {
+     "pin": "66f65b6f44ac0249d11451cac089283aa1756240",
+     "theorems": 26,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    }
+   },
+   "from_scratch_table": {
+    "deterministic-llms": {
+     "pin": "6151727a7ec67d15fdbb0fbfa48c2f305057aa69",
+     "theorems": 53,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol": {
+     "pin": "561cf39533443691c2c6817daff7b04276dee860",
+     "theorems": 10,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-eyes": {
+     "pin": "1dc24f4fcd8240ab6fbc9056dba7726e5c62bd98",
+     "theorems": 61,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-lib": {
+     "pin": "578b8b3a7e212082bf0d1f8a5a582cca63af3a19",
+     "theorems": 120,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-semi": {
+     "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+     "theorems": 1851,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-theses": {
+     "pin": "d207be6e23b2f9d72b5b16e1d85b7ea3003ec56c",
+     "theorems": 36,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "premise-retraction-playground": {
+     "pin": "47f469a4e868ce9f7ad5f17e329739ef22b8066c",
+     "theorems": 0,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "semi-persistent": {
+     "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+     "theorems": 101,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-benchmarking-is-redundant-and-suboptimal": {
+     "pin": "4314a181bc3d1fb35972031273c796aca10d15f5",
+     "theorems": 34,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-certification-is-monotone": {
+     "pin": "4539760e0589fdcb3327d7b6ded90bb71af3a808",
+     "theorems": 19,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-compilers-lose-info": {
+     "pin": "f531e31a4e647461a28228e4b9d64f40d1782908",
+     "theorems": 37,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-doesnt-have-to-regress": {
+     "pin": "c36829da6f687d52b7d7998edc5ef55f4c244077",
+     "theorems": 131,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-doesnt-need-review": {
+     "pin": "40b1e885658951fa3fd17f42f5017fed5765f22b",
+     "theorems": 82,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-emergence-is-decidable": {
+     "pin": "8eb2906bbf4266129056fcad5b3318dfb2fc31dc",
+     "theorems": 68,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-frontier-is-solvable": {
+     "pin": "6a41c7be3c1b01492f96b75cbf0a28b11ab9faff",
+     "theorems": 18,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-fuzzing-is-suboptimal": {
+     "pin": "18d9569b581a3d2900b0613b33fc00e4b464ffa5",
+     "theorems": 21,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-has-a-highest-minimal-axis": {
+     "pin": "63d9d3fdce1f81c81cd5cda2bd9850b0c1494646",
+     "theorems": 58,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-a-closed-loop": {
+     "pin": "d558669b7cf556bb1d9653e6432c895c3ceb6cfd",
+     "theorems": 11,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-a-parametric-language-model": {
+     "pin": "ca4ca2b39181bb93a717b3edbb58ab476761fa5c",
+     "theorems": 40,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-bidirectional": {
+     "pin": "b14fc92b77d27411775be1a6a64428ff8fad247a",
+     "theorems": 73,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-composable": {
+     "pin": "a3058ba676f82c1c21faf588b72acdc77fb73dc7",
+     "theorems": 56,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-certifiable": {
+     "pin": "c9ffd49a906038d29d3e0d726093c410b3db798e",
+     "theorems": 8,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-safe": {
+     "pin": "8ad1dd2624c41023919ab7c41a285de15b3ce673",
+     "theorems": 6,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-safe-content-branch": {
+     "pin": "5c1006a6ae6ee41a4bc19247db3a95589f5a3e9e",
+     "theorems": null,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-more-traceable-than-you-think": {
+     "pin": "4420fb1e5422d965668c66f93d9d352cc3cec982",
+     "theorems": 5,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-quantifiable": {
+     "pin": "f370992611d8c722e4897e67dbb8eaecf3d872ed",
+     "theorems": 189,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-reversible": {
+     "pin": "fcb9595310d8a0782cb7fca1b2203d80b28c8d8c",
+     "theorems": 94,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-solvable": {
+     "pin": "5bbceee7e4270d838115dbfc8fb218ebee641638",
+     "theorems": 51,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-losses-are-compositional": {
+     "pin": "12ee66e9c9cdaeec4bea5eb8fb1fd61e6df780fb",
+     "theorems": 18,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-optimality": {
+     "pin": "b52c3170a6e108345bd5ada44ca7355dae55b395",
+     "theorems": 450,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-persistence-is-minimal": {
+     "pin": "eb01cf2e33a20bfbda5a03aba7a48c70fbd10741",
+     "theorems": 53,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-profiling-is-synthesizable": {
+     "pin": "a53c4bf5aa83e8677ecb66571d61ed4c11e2d88d",
+     "theorems": 20,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-redundancy-is-equivalence": {
+     "pin": "37514fb760ae8457bd4b75514b2dbcc4fbdccfef",
+     "theorems": 217,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-redundant-compute-expands": {
+     "pin": "1ea286488cd4fecb7edb7f5debe407db04456b88",
+     "theorems": 37,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-tensors-are-editable": {
+     "pin": "9d7afd54bf8e7c8dbd335b6530d4cdc6b6d14d18",
+     "theorems": 14,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-testing-is-redundant": {
+     "pin": "66f65b6f44ac0249d11451cac089283aa1756240",
+     "theorems": 26,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    }
+   }
+  },
+  "run83": {
+   "commit": "d2cb9195",
+   "registered_window": true,
+   "repos_compared": 36,
+   "recounted": [],
+   "carried": 36,
+   "dropped": [],
+   "disagreements": [],
+   "incremental_table": {
+    "deterministic-llms": {
+     "pin": "6151727a7ec67d15fdbb0fbfa48c2f305057aa69",
+     "theorems": 53,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol": {
+     "pin": "561cf39533443691c2c6817daff7b04276dee860",
+     "theorems": 10,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-eyes": {
+     "pin": "1dc24f4fcd8240ab6fbc9056dba7726e5c62bd98",
+     "theorems": 61,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-lib": {
+     "pin": "578b8b3a7e212082bf0d1f8a5a582cca63af3a19",
+     "theorems": 120,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-semi": {
+     "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+     "theorems": 1851,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-theses": {
+     "pin": "d207be6e23b2f9d72b5b16e1d85b7ea3003ec56c",
+     "theorems": 36,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "premise-retraction-playground": {
+     "pin": "47f469a4e868ce9f7ad5f17e329739ef22b8066c",
+     "theorems": 0,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "semi-persistent": {
+     "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+     "theorems": 101,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-benchmarking-is-redundant-and-suboptimal": {
+     "pin": "4314a181bc3d1fb35972031273c796aca10d15f5",
+     "theorems": 34,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-certification-is-monotone": {
+     "pin": "4539760e0589fdcb3327d7b6ded90bb71af3a808",
+     "theorems": 19,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-compilers-lose-info": {
+     "pin": "f531e31a4e647461a28228e4b9d64f40d1782908",
+     "theorems": 37,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-doesnt-have-to-regress": {
+     "pin": "c36829da6f687d52b7d7998edc5ef55f4c244077",
+     "theorems": 131,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-doesnt-need-review": {
+     "pin": "40b1e885658951fa3fd17f42f5017fed5765f22b",
+     "theorems": 82,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-emergence-is-decidable": {
+     "pin": "8eb2906bbf4266129056fcad5b3318dfb2fc31dc",
+     "theorems": 68,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-frontier-is-solvable": {
+     "pin": "6a41c7be3c1b01492f96b75cbf0a28b11ab9faff",
+     "theorems": 18,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-fuzzing-is-suboptimal": {
+     "pin": "18d9569b581a3d2900b0613b33fc00e4b464ffa5",
+     "theorems": 21,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-has-a-highest-minimal-axis": {
+     "pin": "63d9d3fdce1f81c81cd5cda2bd9850b0c1494646",
+     "theorems": 58,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-a-closed-loop": {
+     "pin": "d558669b7cf556bb1d9653e6432c895c3ceb6cfd",
+     "theorems": 11,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-a-parametric-language-model": {
+     "pin": "ca4ca2b39181bb93a717b3edbb58ab476761fa5c",
+     "theorems": 40,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-bidirectional": {
+     "pin": "b14fc92b77d27411775be1a6a64428ff8fad247a",
+     "theorems": 73,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-composable": {
+     "pin": "a3058ba676f82c1c21faf588b72acdc77fb73dc7",
+     "theorems": 56,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-certifiable": {
+     "pin": "c9ffd49a906038d29d3e0d726093c410b3db798e",
+     "theorems": 8,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-safe": {
+     "pin": "8ad1dd2624c41023919ab7c41a285de15b3ce673",
+     "theorems": 6,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-safe-content-branch": {
+     "pin": "5c1006a6ae6ee41a4bc19247db3a95589f5a3e9e",
+     "theorems": null,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-more-traceable-than-you-think": {
+     "pin": "4420fb1e5422d965668c66f93d9d352cc3cec982",
+     "theorems": 5,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-quantifiable": {
+     "pin": "f370992611d8c722e4897e67dbb8eaecf3d872ed",
+     "theorems": 189,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-reversible": {
+     "pin": "fcb9595310d8a0782cb7fca1b2203d80b28c8d8c",
+     "theorems": 94,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-solvable": {
+     "pin": "5bbceee7e4270d838115dbfc8fb218ebee641638",
+     "theorems": 51,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-losses-are-compositional": {
+     "pin": "12ee66e9c9cdaeec4bea5eb8fb1fd61e6df780fb",
+     "theorems": 18,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-optimality": {
+     "pin": "b52c3170a6e108345bd5ada44ca7355dae55b395",
+     "theorems": 450,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-persistence-is-minimal": {
+     "pin": "eb01cf2e33a20bfbda5a03aba7a48c70fbd10741",
+     "theorems": 53,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-profiling-is-synthesizable": {
+     "pin": "a53c4bf5aa83e8677ecb66571d61ed4c11e2d88d",
+     "theorems": 20,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-redundancy-is-equivalence": {
+     "pin": "37514fb760ae8457bd4b75514b2dbcc4fbdccfef",
+     "theorems": 217,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-redundant-compute-expands": {
+     "pin": "1ea286488cd4fecb7edb7f5debe407db04456b88",
+     "theorems": 37,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-tensors-are-editable": {
+     "pin": "9d7afd54bf8e7c8dbd335b6530d4cdc6b6d14d18",
+     "theorems": 14,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-testing-is-redundant": {
+     "pin": "66f65b6f44ac0249d11451cac089283aa1756240",
+     "theorems": 26,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    }
+   },
+   "from_scratch_table": {
+    "deterministic-llms": {
+     "pin": "6151727a7ec67d15fdbb0fbfa48c2f305057aa69",
+     "theorems": 53,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol": {
+     "pin": "561cf39533443691c2c6817daff7b04276dee860",
+     "theorems": 10,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-eyes": {
+     "pin": "1dc24f4fcd8240ab6fbc9056dba7726e5c62bd98",
+     "theorems": 61,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-lib": {
+     "pin": "578b8b3a7e212082bf0d1f8a5a582cca63af3a19",
+     "theorems": 120,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-semi": {
+     "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+     "theorems": 1851,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-theses": {
+     "pin": "d207be6e23b2f9d72b5b16e1d85b7ea3003ec56c",
+     "theorems": 36,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "premise-retraction-playground": {
+     "pin": "47f469a4e868ce9f7ad5f17e329739ef22b8066c",
+     "theorems": 0,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "semi-persistent": {
+     "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+     "theorems": 101,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-benchmarking-is-redundant-and-suboptimal": {
+     "pin": "4314a181bc3d1fb35972031273c796aca10d15f5",
+     "theorems": 34,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-certification-is-monotone": {
+     "pin": "4539760e0589fdcb3327d7b6ded90bb71af3a808",
+     "theorems": 19,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-compilers-lose-info": {
+     "pin": "f531e31a4e647461a28228e4b9d64f40d1782908",
+     "theorems": 37,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-doesnt-have-to-regress": {
+     "pin": "c36829da6f687d52b7d7998edc5ef55f4c244077",
+     "theorems": 131,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-doesnt-need-review": {
+     "pin": "40b1e885658951fa3fd17f42f5017fed5765f22b",
+     "theorems": 82,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-emergence-is-decidable": {
+     "pin": "8eb2906bbf4266129056fcad5b3318dfb2fc31dc",
+     "theorems": 68,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-frontier-is-solvable": {
+     "pin": "6a41c7be3c1b01492f96b75cbf0a28b11ab9faff",
+     "theorems": 18,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-fuzzing-is-suboptimal": {
+     "pin": "18d9569b581a3d2900b0613b33fc00e4b464ffa5",
+     "theorems": 21,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-has-a-highest-minimal-axis": {
+     "pin": "63d9d3fdce1f81c81cd5cda2bd9850b0c1494646",
+     "theorems": 58,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-a-closed-loop": {
+     "pin": "d558669b7cf556bb1d9653e6432c895c3ceb6cfd",
+     "theorems": 11,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-a-parametric-language-model": {
+     "pin": "ca4ca2b39181bb93a717b3edbb58ab476761fa5c",
+     "theorems": 40,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-bidirectional": {
+     "pin": "b14fc92b77d27411775be1a6a64428ff8fad247a",
+     "theorems": 73,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-composable": {
+     "pin": "a3058ba676f82c1c21faf588b72acdc77fb73dc7",
+     "theorems": 56,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-certifiable": {
+     "pin": "c9ffd49a906038d29d3e0d726093c410b3db798e",
+     "theorems": 8,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-safe": {
+     "pin": "8ad1dd2624c41023919ab7c41a285de15b3ce673",
+     "theorems": 6,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-safe-content-branch": {
+     "pin": "5c1006a6ae6ee41a4bc19247db3a95589f5a3e9e",
+     "theorems": null,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-more-traceable-than-you-think": {
+     "pin": "4420fb1e5422d965668c66f93d9d352cc3cec982",
+     "theorems": 5,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-quantifiable": {
+     "pin": "f370992611d8c722e4897e67dbb8eaecf3d872ed",
+     "theorems": 189,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-reversible": {
+     "pin": "fcb9595310d8a0782cb7fca1b2203d80b28c8d8c",
+     "theorems": 94,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-solvable": {
+     "pin": "5bbceee7e4270d838115dbfc8fb218ebee641638",
+     "theorems": 51,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-losses-are-compositional": {
+     "pin": "12ee66e9c9cdaeec4bea5eb8fb1fd61e6df780fb",
+     "theorems": 18,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-optimality": {
+     "pin": "b52c3170a6e108345bd5ada44ca7355dae55b395",
+     "theorems": 450,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-persistence-is-minimal": {
+     "pin": "eb01cf2e33a20bfbda5a03aba7a48c70fbd10741",
+     "theorems": 53,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-profiling-is-synthesizable": {
+     "pin": "a53c4bf5aa83e8677ecb66571d61ed4c11e2d88d",
+     "theorems": 20,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-redundancy-is-equivalence": {
+     "pin": "37514fb760ae8457bd4b75514b2dbcc4fbdccfef",
+     "theorems": 217,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-redundant-compute-expands": {
+     "pin": "1ea286488cd4fecb7edb7f5debe407db04456b88",
+     "theorems": 37,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-tensors-are-editable": {
+     "pin": "9d7afd54bf8e7c8dbd335b6530d4cdc6b6d14d18",
+     "theorems": 14,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-testing-is-redundant": {
+     "pin": "66f65b6f44ac0249d11451cac089283aa1756240",
+     "theorems": 26,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    }
+   }
+  },
+  "run84": {
+   "commit": "a8c39c06",
+   "registered_window": false,
+   "repos_compared": 36,
+   "recounted": [],
+   "carried": 36,
+   "dropped": [],
+   "disagreements": [],
+   "incremental_table": {
+    "deterministic-llms": {
+     "pin": "6151727a7ec67d15fdbb0fbfa48c2f305057aa69",
+     "theorems": 53,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol": {
+     "pin": "561cf39533443691c2c6817daff7b04276dee860",
+     "theorems": 10,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-eyes": {
+     "pin": "1dc24f4fcd8240ab6fbc9056dba7726e5c62bd98",
+     "theorems": 61,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-lib": {
+     "pin": "578b8b3a7e212082bf0d1f8a5a582cca63af3a19",
+     "theorems": 120,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-semi": {
+     "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+     "theorems": 1851,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-theses": {
+     "pin": "d207be6e23b2f9d72b5b16e1d85b7ea3003ec56c",
+     "theorems": 36,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "premise-retraction-playground": {
+     "pin": "47f469a4e868ce9f7ad5f17e329739ef22b8066c",
+     "theorems": 0,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "semi-persistent": {
+     "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+     "theorems": 101,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-benchmarking-is-redundant-and-suboptimal": {
+     "pin": "4314a181bc3d1fb35972031273c796aca10d15f5",
+     "theorems": 34,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-certification-is-monotone": {
+     "pin": "4539760e0589fdcb3327d7b6ded90bb71af3a808",
+     "theorems": 19,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-compilers-lose-info": {
+     "pin": "f531e31a4e647461a28228e4b9d64f40d1782908",
+     "theorems": 37,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-doesnt-have-to-regress": {
+     "pin": "c36829da6f687d52b7d7998edc5ef55f4c244077",
+     "theorems": 131,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-doesnt-need-review": {
+     "pin": "40b1e885658951fa3fd17f42f5017fed5765f22b",
+     "theorems": 82,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-emergence-is-decidable": {
+     "pin": "8eb2906bbf4266129056fcad5b3318dfb2fc31dc",
+     "theorems": 68,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-frontier-is-solvable": {
+     "pin": "6a41c7be3c1b01492f96b75cbf0a28b11ab9faff",
+     "theorems": 18,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-fuzzing-is-suboptimal": {
+     "pin": "18d9569b581a3d2900b0613b33fc00e4b464ffa5",
+     "theorems": 21,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-has-a-highest-minimal-axis": {
+     "pin": "63d9d3fdce1f81c81cd5cda2bd9850b0c1494646",
+     "theorems": 58,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-a-closed-loop": {
+     "pin": "d558669b7cf556bb1d9653e6432c895c3ceb6cfd",
+     "theorems": 11,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-a-parametric-language-model": {
+     "pin": "ca4ca2b39181bb93a717b3edbb58ab476761fa5c",
+     "theorems": 40,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-bidirectional": {
+     "pin": "b14fc92b77d27411775be1a6a64428ff8fad247a",
+     "theorems": 73,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-composable": {
+     "pin": "a3058ba676f82c1c21faf588b72acdc77fb73dc7",
+     "theorems": 56,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-certifiable": {
+     "pin": "c9ffd49a906038d29d3e0d726093c410b3db798e",
+     "theorems": 8,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-safe": {
+     "pin": "8ad1dd2624c41023919ab7c41a285de15b3ce673",
+     "theorems": 6,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-safe-content-branch": {
+     "pin": "5c1006a6ae6ee41a4bc19247db3a95589f5a3e9e",
+     "theorems": null,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-more-traceable-than-you-think": {
+     "pin": "4420fb1e5422d965668c66f93d9d352cc3cec982",
+     "theorems": 5,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-quantifiable": {
+     "pin": "f370992611d8c722e4897e67dbb8eaecf3d872ed",
+     "theorems": 189,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-reversible": {
+     "pin": "fcb9595310d8a0782cb7fca1b2203d80b28c8d8c",
+     "theorems": 94,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-solvable": {
+     "pin": "5bbceee7e4270d838115dbfc8fb218ebee641638",
+     "theorems": 51,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-losses-are-compositional": {
+     "pin": "12ee66e9c9cdaeec4bea5eb8fb1fd61e6df780fb",
+     "theorems": 18,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-optimality": {
+     "pin": "b52c3170a6e108345bd5ada44ca7355dae55b395",
+     "theorems": 450,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-persistence-is-minimal": {
+     "pin": "eb01cf2e33a20bfbda5a03aba7a48c70fbd10741",
+     "theorems": 53,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-profiling-is-synthesizable": {
+     "pin": "a53c4bf5aa83e8677ecb66571d61ed4c11e2d88d",
+     "theorems": 20,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-redundancy-is-equivalence": {
+     "pin": "37514fb760ae8457bd4b75514b2dbcc4fbdccfef",
+     "theorems": 217,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-redundant-compute-expands": {
+     "pin": "1ea286488cd4fecb7edb7f5debe407db04456b88",
+     "theorems": 37,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-tensors-are-editable": {
+     "pin": "9d7afd54bf8e7c8dbd335b6530d4cdc6b6d14d18",
+     "theorems": 14,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-testing-is-redundant": {
+     "pin": "66f65b6f44ac0249d11451cac089283aa1756240",
+     "theorems": 26,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    }
+   },
+   "from_scratch_table": {
+    "deterministic-llms": {
+     "pin": "6151727a7ec67d15fdbb0fbfa48c2f305057aa69",
+     "theorems": 53,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol": {
+     "pin": "561cf39533443691c2c6817daff7b04276dee860",
+     "theorems": 10,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-eyes": {
+     "pin": "1dc24f4fcd8240ab6fbc9056dba7726e5c62bd98",
+     "theorems": 61,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-lib": {
+     "pin": "578b8b3a7e212082bf0d1f8a5a582cca63af3a19",
+     "theorems": 120,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-semi": {
+     "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+     "theorems": 1851,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "idol-theses": {
+     "pin": "d207be6e23b2f9d72b5b16e1d85b7ea3003ec56c",
+     "theorems": 36,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "premise-retraction-playground": {
+     "pin": "47f469a4e868ce9f7ad5f17e329739ef22b8066c",
+     "theorems": 0,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "semi-persistent": {
+     "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+     "theorems": 101,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-benchmarking-is-redundant-and-suboptimal": {
+     "pin": "4314a181bc3d1fb35972031273c796aca10d15f5",
+     "theorems": 34,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-certification-is-monotone": {
+     "pin": "4539760e0589fdcb3327d7b6ded90bb71af3a808",
+     "theorems": 19,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-compilers-lose-info": {
+     "pin": "f531e31a4e647461a28228e4b9d64f40d1782908",
+     "theorems": 37,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-doesnt-have-to-regress": {
+     "pin": "c36829da6f687d52b7d7998edc5ef55f4c244077",
+     "theorems": 131,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-doesnt-need-review": {
+     "pin": "40b1e885658951fa3fd17f42f5017fed5765f22b",
+     "theorems": 82,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-emergence-is-decidable": {
+     "pin": "8eb2906bbf4266129056fcad5b3318dfb2fc31dc",
+     "theorems": 68,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-frontier-is-solvable": {
+     "pin": "6a41c7be3c1b01492f96b75cbf0a28b11ab9faff",
+     "theorems": 18,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-fuzzing-is-suboptimal": {
+     "pin": "18d9569b581a3d2900b0613b33fc00e4b464ffa5",
+     "theorems": 21,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-has-a-highest-minimal-axis": {
+     "pin": "63d9d3fdce1f81c81cd5cda2bd9850b0c1494646",
+     "theorems": 58,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-a-closed-loop": {
+     "pin": "d558669b7cf556bb1d9653e6432c895c3ceb6cfd",
+     "theorems": 11,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-a-parametric-language-model": {
+     "pin": "ca4ca2b39181bb93a717b3edbb58ab476761fa5c",
+     "theorems": 40,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-bidirectional": {
+     "pin": "b14fc92b77d27411775be1a6a64428ff8fad247a",
+     "theorems": 73,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-composable": {
+     "pin": "a3058ba676f82c1c21faf588b72acdc77fb73dc7",
+     "theorems": 56,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-certifiable": {
+     "pin": "c9ffd49a906038d29d3e0d726093c410b3db798e",
+     "theorems": 8,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-safe": {
+     "pin": "8ad1dd2624c41023919ab7c41a285de15b3ce673",
+     "theorems": 6,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-incrementally-safe-content-branch": {
+     "pin": "5c1006a6ae6ee41a4bc19247db3a95589f5a3e9e",
+     "theorems": null,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-more-traceable-than-you-think": {
+     "pin": "4420fb1e5422d965668c66f93d9d352cc3cec982",
+     "theorems": 5,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-quantifiable": {
+     "pin": "f370992611d8c722e4897e67dbb8eaecf3d872ed",
+     "theorems": 189,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-reversible": {
+     "pin": "fcb9595310d8a0782cb7fca1b2203d80b28c8d8c",
+     "theorems": 94,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-is-solvable": {
+     "pin": "5bbceee7e4270d838115dbfc8fb218ebee641638",
+     "theorems": 51,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-losses-are-compositional": {
+     "pin": "12ee66e9c9cdaeec4bea5eb8fb1fd61e6df780fb",
+     "theorems": 18,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-optimality": {
+     "pin": "b52c3170a6e108345bd5ada44ca7355dae55b395",
+     "theorems": 450,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-persistence-is-minimal": {
+     "pin": "eb01cf2e33a20bfbda5a03aba7a48c70fbd10741",
+     "theorems": 53,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-profiling-is-synthesizable": {
+     "pin": "a53c4bf5aa83e8677ecb66571d61ed4c11e2d88d",
+     "theorems": 20,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-redundancy-is-equivalence": {
+     "pin": "37514fb760ae8457bd4b75514b2dbcc4fbdccfef",
+     "theorems": 217,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-redundant-compute-expands": {
+     "pin": "1ea286488cd4fecb7edb7f5debe407db04456b88",
+     "theorems": 37,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-tensors-are-editable": {
+     "pin": "9d7afd54bf8e7c8dbd335b6530d4cdc6b6d14d18",
+     "theorems": 14,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    },
+    "software-testing-is-redundant": {
+     "pin": "66f65b6f44ac0249d11451cac089283aa1756240",
+     "theorems": 26,
+     "basis": "declaration lines outside comments, basis v2 (count.py)"
+    }
+   }
+  }
+ },
+ "seed": {
+  "commit": "9fe3f69c",
+  "table": {
+   "deterministic-llms": {
+    "pin": "6151727a7ec67d15fdbb0fbfa48c2f305057aa69",
+    "theorems": 53,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "idol": {
+    "pin": "561cf39533443691c2c6817daff7b04276dee860",
+    "theorems": 10,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "idol-eyes": {
+    "pin": "1dc24f4fcd8240ab6fbc9056dba7726e5c62bd98",
+    "theorems": 61,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "idol-lib": {
+    "pin": "578b8b3a7e212082bf0d1f8a5a582cca63af3a19",
+    "theorems": 120,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "idol-semi": {
+    "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+    "theorems": 1851,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "idol-theses": {
+    "pin": "d207be6e23b2f9d72b5b16e1d85b7ea3003ec56c",
+    "theorems": 36,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "premise-retraction-playground": {
+    "pin": "47f469a4e868ce9f7ad5f17e329739ef22b8066c",
+    "theorems": 0,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "semi-persistent": {
+    "pin": "508d7c66386674e6161aa7d2262ae303f87d6135",
+    "theorems": 101,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-benchmarking-is-redundant-and-suboptimal": {
+    "pin": "4314a181bc3d1fb35972031273c796aca10d15f5",
+    "theorems": 34,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-certification-is-monotone": {
+    "pin": "4539760e0589fdcb3327d7b6ded90bb71af3a808",
+    "theorems": 19,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-compilers-lose-info": {
+    "pin": "f531e31a4e647461a28228e4b9d64f40d1782908",
+    "theorems": 37,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-doesnt-have-to-regress": {
+    "pin": "c36829da6f687d52b7d7998edc5ef55f4c244077",
+    "theorems": 131,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-doesnt-need-review": {
+    "pin": "40b1e885658951fa3fd17f42f5017fed5765f22b",
+    "theorems": 82,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-emergence-is-decidable": {
+    "pin": "cddf398adceac41c4c171b8b012d9dc07af7e7f5",
+    "theorems": 63,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-frontier-is-solvable": {
+    "pin": "6a41c7be3c1b01492f96b75cbf0a28b11ab9faff",
+    "theorems": 18,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-fuzzing-is-suboptimal": {
+    "pin": "18d9569b581a3d2900b0613b33fc00e4b464ffa5",
+    "theorems": 21,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-has-a-highest-minimal-axis": {
+    "pin": "63d9d3fdce1f81c81cd5cda2bd9850b0c1494646",
+    "theorems": 58,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-is-a-closed-loop": {
+    "pin": "d558669b7cf556bb1d9653e6432c895c3ceb6cfd",
+    "theorems": 11,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-is-a-parametric-language-model": {
+    "pin": "ca4ca2b39181bb93a717b3edbb58ab476761fa5c",
+    "theorems": 40,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-is-bidirectional": {
+    "pin": "b14fc92b77d27411775be1a6a64428ff8fad247a",
+    "theorems": 73,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-is-composable": {
+    "pin": "a3058ba676f82c1c21faf588b72acdc77fb73dc7",
+    "theorems": 56,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-is-incrementally-certifiable": {
+    "pin": "c9ffd49a906038d29d3e0d726093c410b3db798e",
+    "theorems": 8,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-is-incrementally-safe": {
+    "pin": "8ad1dd2624c41023919ab7c41a285de15b3ce673",
+    "theorems": 6,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-is-incrementally-safe-content-branch": {
+    "pin": "5c1006a6ae6ee41a4bc19247db3a95589f5a3e9e",
+    "theorems": null,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-is-more-traceable-than-you-think": {
+    "pin": "4420fb1e5422d965668c66f93d9d352cc3cec982",
+    "theorems": 5,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-is-quantifiable": {
+    "pin": "f370992611d8c722e4897e67dbb8eaecf3d872ed",
+    "theorems": 189,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-is-reversible": {
+    "pin": "fcb9595310d8a0782cb7fca1b2203d80b28c8d8c",
+    "theorems": 94,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-is-solvable": {
+    "pin": "5bbceee7e4270d838115dbfc8fb218ebee641638",
+    "theorems": 51,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-losses-are-compositional": {
+    "pin": "12ee66e9c9cdaeec4bea5eb8fb1fd61e6df780fb",
+    "theorems": 18,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-optimality": {
+    "pin": "b52c3170a6e108345bd5ada44ca7355dae55b395",
+    "theorems": 450,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-persistence-is-minimal": {
+    "pin": "eb01cf2e33a20bfbda5a03aba7a48c70fbd10741",
+    "theorems": 53,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-profiling-is-synthesizable": {
+    "pin": "a53c4bf5aa83e8677ecb66571d61ed4c11e2d88d",
+    "theorems": 20,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-redundancy-is-equivalence": {
+    "pin": "37514fb760ae8457bd4b75514b2dbcc4fbdccfef",
+    "theorems": 217,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-redundant-compute-expands": {
+    "pin": "1ea286488cd4fecb7edb7f5debe407db04456b88",
+    "theorems": 37,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-tensors-are-editable": {
+    "pin": "9d7afd54bf8e7c8dbd335b6530d4cdc6b6d14d18",
+    "theorems": 14,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   },
+   "software-testing-is-redundant": {
+    "pin": "66f65b6f44ac0249d11451cac089283aa1756240",
+    "theorems": 26,
+    "basis": "declaration lines outside comments, basis v2 (count.py)"
+   }
+  }
+ }
+}
